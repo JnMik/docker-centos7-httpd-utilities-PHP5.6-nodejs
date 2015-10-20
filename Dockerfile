@@ -1,4 +1,4 @@
-FROM jnmik/docker-centos7-httpd-utilities-PHP5.6:latest
+FROM jnmik/docker-centos7-httpd-utilities-php5.6:latest
 MAINTAINER Jean-Michael Cyr <cyrjeanmichael@gmail.com
 
 # Install Node.js
